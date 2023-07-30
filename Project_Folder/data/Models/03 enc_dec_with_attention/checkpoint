@@ -1,0 +1,2 @@
+model_checkpoint_path: "enc_dec_wit_att"
+all_model_checkpoint_paths: "enc_dec_wit_att"
